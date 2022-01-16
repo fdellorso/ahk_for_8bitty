@@ -1,4 +1,4 @@
-; The Messenger
+; Key Test
 
 upKey := "m"
 downKey := "n"
